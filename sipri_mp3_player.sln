@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sipri_mp3_player", "sipri_mp3_player\sipri_mp3_player.vcxproj", "{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "splayer", "splayer\splayer.csproj", "{E6170ED4-5951-487D-9C49-74C92C6CF534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Debug|Win32.Build.0 = Debug|Win32
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Release|Win32.ActiveCfg = Release|Win32
+		{D41F7BDE-4DC7-4AF5-A43B-A3FE55533B9B}.Release|Win32.Build.0 = Release|Win32
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Win32.Build.0 = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Debug|Win32.Deploy.0 = Debug|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Win32.ActiveCfg = Release|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Win32.Build.0 = Release|Any CPU
+		{E6170ED4-5951-487D-9C49-74C92C6CF534}.Release|Win32.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
